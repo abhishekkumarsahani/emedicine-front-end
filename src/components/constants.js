@@ -1,1 +1,1 @@
-export const baseUrl = 'https://localhost:44341/swagger/index.html';
+export const baseUrl = 'https://localhost:44341';
